@@ -1,0 +1,58 @@
+Compte-rendu TP2
+
+------------------------------------------------------------------
+NOM  :
+Prenom :
+Numero carte d'etudiant :
+
+NOM :
+Prenom :
+Numero carte d'etudiant :
+------------------------------------------------------------------
+
+
+Difference entre guillemets et apostrophes
+==========================================
+
+Question 1
+----------
+Execution et explications :
+
+
+Utilisation de la variable PATH
+===============================
+
+Question 1
+----------
+Constatations :
+
+Question 2
+----------
+Constatations et explications :
+
+
+
+Premier script
+==============
+
+Question 1
+----------
+Inserez le code du script contenuRepertoires.sh
+
+Question 2
+----------
+Inserez le code du script contenuRepertoires1.sh
+
+
+
+Pour aller plus loin
+=======================================
+
+Question 1
+----------
+Inserez le code du script creationArboFichier.sh
+
+
+Question 2
+----------
+Inserez le code du script creationArboFichier2.sh
